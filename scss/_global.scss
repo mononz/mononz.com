@@ -49,3 +49,11 @@ section.page-section {
     font-weight: 300;
     @include sans-serif-font;
 }
+
+.fa:hover {
+    color: white;
+}
+
+.fab:hover {
+    color: white;
+}
