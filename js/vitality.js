@@ -74,47 +74,6 @@ $(document).ready(function() {
     $(this).removeClass("floating-label-form-group-with-focus");
   });
 
-  // Owl Carousel Settings
-  $(".team-carousel").owlCarousel({
-    items: 3,
-    navigation: true,
-    pagination: false,
-    navigationText: [
-      "<i class='fa fa-angle-left'></i>",
-      "<i class='fa fa-angle-right'></i>"
-    ],
-  });
-
-  $(".portfolio-carousel").owlCarousel({
-    singleItem: true,
-    navigation: true,
-    pagination: false,
-    navigationText: [
-      "<i class='fa fa-angle-left'></i>",
-      "<i class='fa fa-angle-right'></i>"
-    ],
-    autoHeight: true,
-    mouseDrag: false,
-    touchDrag: false,
-    transitionStyle: "fadeUp"
-  });
-
-  $(".testimonials-carousel, .mockup-carousel").owlCarousel({
-    singleItem: true,
-    navigation: true,
-    pagination: true,
-    autoHeight: true,
-    navigationText: [
-      "<i class='fa fa-angle-left'></i>",
-      "<i class='fa fa-angle-right'></i>"
-    ],
-    transitionStyle: "backSlide"
-  });
-
-  $(".portfolio-gallery").owlCarousel({
-    items: 3,
-  });
-
   // Magnific Popup jQuery Lightbox Gallery Settings
   $('.gallery-link').magnificPopup({
     type: 'image',
@@ -132,14 +91,6 @@ $(document).ready(function() {
     image: {
       titleSrc: 'title'
     }
-  });
-
-  // Vide - Video Background Settings
-  $('header.video').vide({
-    mp4: "mp4/camera.mp4",
-    poster: "img/agency/backgrounds/bg-mobile-fallback.jpg"
-  }, {
-    posterType: 'jpg'
   });
 
 })(jQuery); // End of use strict
