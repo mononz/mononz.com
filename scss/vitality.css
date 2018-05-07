@@ -126,10 +126,7 @@ h6 {
         #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link {
           padding: 15px; }
           #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link.active, #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link.active:focus, #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link.active:hover {
-            color: #EF4035;
-            border-radius: 0;
-            border-radius: 5px;
-            background-color: white; } }
+            color: #EF4035; } }
 
 header.masthead {
   position: relative;
@@ -682,37 +679,5 @@ a.text-primary {
 
 .bg-inverse {
   background-color: #222 !important; }
-
-.owl-carousel.owl-theme .owl-controls {
-  margin-top: 0; }
-  .owl-carousel.owl-theme .owl-controls .owl-prev,
-  .owl-carousel.owl-theme .owl-controls .owl-next {
-    font-size: 30px !important;
-    line-height: 50px;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    width: 40px;
-    height: 60px;
-    margin: auto 0 !important;
-    text-align: center;
-    color: white !important;
-    border-radius: 0 !important;
-    background-color: #EF4035 !important;
-    transition: all 0.5s; }
-    .owl-carousel.owl-theme .owl-controls .owl-prev:hover,
-    .owl-carousel.owl-theme .owl-controls .owl-next:hover {
-      opacity: 1; }
-  .owl-carousel.owl-theme .owl-controls .owl-prev {
-    left: 15px; }
-  .owl-carousel.owl-theme .owl-controls .owl-next {
-    right: 15px; }
-  .owl-carousel.owl-theme .owl-controls .owl-page span {
-    background: rgba(34, 34, 34, 0.5); }
-
-.owl-carousel.owl-theme.portfolio-carousel .owl-controls .owl-prev {
-  left: 0; }
-.owl-carousel.owl-theme.portfolio-carousel .owl-controls .owl-next {
-  right: 0; }
 
 /*# sourceMappingURL=vitality.css.map */
