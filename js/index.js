@@ -11,7 +11,7 @@
   };
 
   var data = {
-    name: 'Jared Hally',
+    name: 'Jared Hall',
     tagline: 'Native App Developer',
     image: 'img/logo.svg',
 
@@ -33,9 +33,9 @@
         { title: 'All',     type: filter.all },
         { title: 'Android', type: '.' + filter.android },
         { title: 'iOS',     type: '.' + filter.ios },
-        { title: 'Backend', type: '.' + filter.backend },
-        { title: 'Web',     type: '.' + filter.web },
-        { title: 'Misc',    type: '.' + filter.misc }
+        // { title: 'Backend', type: '.' + filter.backend },
+        // { title: 'Web',     type: '.' + filter.web },
+        // { title: 'Misc',    type: '.' + filter.misc }
       ],
       items: [
         {
