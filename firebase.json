@@ -1,0 +1,19 @@
+{
+  "hosting": {
+    "public": "./",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/.git/*",
+      "**/.idea/*",
+      "**/photoshop/*",
+      "**/*.@(scss|pdf)"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
