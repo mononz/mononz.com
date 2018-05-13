@@ -78,37 +78,37 @@
           type: filter.android,
           image: 'img/portfolio/personal/crypz.png',
           title: 'Crypz',
-          subtitle: 'Personal',
+          subtitle: 'Personal Project',
           caption: ''
         }, {
           type: filter.android,
           image: 'img/portfolio/personal/lastepisode.png',
           title: 'Last Episode',
-          subtitle: 'Personal',
+          subtitle: 'Personal Project',
           caption: ''
         }, {
           type: filter.android,
           image: 'img/portfolio/personal/lazytag.png',
           title: 'Lazy Tag',
-          subtitle: 'Personal',
+          subtitle: 'Personal Project',
           caption: ''
         }, {
           type: filter.android,
           image: 'img/portfolio/personal/monote.png',
           title: 'Monote',
-          subtitle: 'Personal',
+          subtitle: 'Personal Project',
           caption: ''
         }, {
           type: filter.android,
           image: 'img/portfolio/personal/paradex.png',
           title: 'Paradex',
-          subtitle: 'Personal',
+          subtitle: 'Personal Project',
           caption: ''
         }, {
           type: filter.android,
           image: 'img/portfolio/personal/psarchives.png',
           title: 'PSArchives',
-          subtitle: 'Personal',
+          subtitle: 'Personal Project',
           caption: ''
         }, {
           type: filter.android,

@@ -24,7 +24,7 @@
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
 
     <!-- Custom styles for this theme -->
-    <link rel="stylesheet" type="text/css" href="scss/vitality.css">
+    <link rel="stylesheet" type="text/css" href="scss/index.css">
 
 </head>
 
@@ -78,7 +78,8 @@
             <div class="container text-center wow fadeIn">
                 <h2>{{work.title}}</h2>
                 <!--<hr class="colored">-->
-                <p>{{work.description}}</p>
+                <!--<p>{{work.description}}</p>-->
+                <p>Coming soon</p>
             </div>
         </section>
 
@@ -87,12 +88,12 @@
             <div class="container text-center wow fadeIn">
                 <h2>{{portfolio.title}}</h2>
                 <!--<hr class="colored">-->
-                <p>{{portfolio.description}}</p>
-                <div class="controls mt-3">
-                    {{#each portfolio.controls}}
-                    <button type="button" class="control btn btn-secondary btn-sm mx-2 mb-4" data-mixitup-control data-filter="{{this.type}}">{{this.title}}</button>
-                    {{/each}}
-                </div>
+                <!--<p>{{portfolio.description}}</p>-->
+                <!--<div class="controls mt-3">-->
+                    <!--{{#each portfolio.controls}}-->
+                    <!--<button type="button" class="control btn btn-secondary btn-sm mx-2 mb-4" data-mixitup-control data-filter="{{this.type}}">{{this.title}}</button>-->
+                    <!--{{/each}}-->
+                <!--</div>-->
                 <div class="portfolio-grid clearfix" id="portfolioList">
                     {{#each portfolio.items}}
                     <div class="mix {{this.type}}" href="{{this.image}}" title="{{this.title}}">
