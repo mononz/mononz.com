@@ -4,9 +4,9 @@
     "ignore": [
       "firebase.json",
       "**/.*",
-      "**/.git/*",
-      "**/.idea/*",
-      "**/photoshop/*",
+      "**/.git/**",
+      "**/.idea/**",
+      "**/make/**",
       "**/*.@(scss|pdf)"
     ],
     "rewrites": [
