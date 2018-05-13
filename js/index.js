@@ -40,58 +40,88 @@
       items: [
         {
           type: filter.android,
-          image: 'img/portfolio/grid-1.jpg',
-          title: 'Client Name',
-          subtitle: 'Brand identity',
+          image: 'img/portfolio/creativeintersection/assesspal.png',
+          title: 'AssessPal',
+          subtitle: 'Creative Intersection',
           caption: ''
         }, {
           type: filter.android,
-          image: 'img/portfolio/grid-2.jpg',
-          title: 'Client Name',
-          subtitle: 'Web Development',
+          image: 'img/portfolio/creativeintersection/idfish.png',
+          title: 'iDFish',
+          subtitle: 'Creative Intersection',
           caption: ''
         }, {
           type: filter.android,
-          image: 'img/portfolio/grid-3.jpg',
-          title: 'Client Name',
-          subtitle: 'Web Development',
+          image: 'img/portfolio/creativeintersection/iseekplant.png',
+          title: 'iSeekPlant',
+          subtitle: 'Creative Intersection',
           caption: ''
         }, {
           type: filter.android,
-          image: 'img/portfolio/grid-4.jpg',
-          title: 'Client Name',
-          subtitle: 'Brand identity',
+          image: 'img/portfolio/creativeintersection/pocketkeez.png',
+          title: 'PocketKeez',
+          subtitle: 'Creative Intersection',
           caption: ''
         }, {
           type: filter.android,
-          image: 'img/portfolio/grid-5.jpg',
-          title: 'Client Name',
-          subtitle: 'Web Development',
+          image: 'img/portfolio/creativeintersection/worksafeguardian.png',
+          title: 'WorkSafe Guardian',
+          subtitle: 'Creative Intersection',
           caption: ''
         }, {
           type: filter.android,
-          image: 'img/portfolio/grid-6.jpg',
-          title: 'Client Name',
-          subtitle: 'Graphic Design',
+          image: 'img/portfolio/mononz/tepari.png',
+          title: 'Te Pari',
+          subtitle: 'Mononz Contracting',
           caption: ''
         }, {
           type: filter.android,
-          image: 'img/portfolio/grid-7.jpg',
-          title: 'Client Name',
-          subtitle: 'Graphic Design',
+          image: 'img/portfolio/personal/crypz.png',
+          title: 'Crypz',
+          subtitle: 'Personal',
           caption: ''
         }, {
           type: filter.android,
-          image: 'img/portfolio/grid-8.jpg',
-          title: 'Client Name',
-          subtitle: 'Web Development',
+          image: 'img/portfolio/personal/lastepisode.png',
+          title: 'Last Episode',
+          subtitle: 'Personal',
           caption: ''
         }, {
           type: filter.android,
-          image: 'img/portfolio/grid-9.jpg',
-          title: 'Client Name',
-          subtitle: 'Brand identity',
+          image: 'img/portfolio/personal/lazytag.png',
+          title: 'Lazy Tag',
+          subtitle: 'Personal',
           caption: ''
+        }, {
+          type: filter.android,
+          image: 'img/portfolio/personal/monote.png',
+          title: 'Monote',
+          subtitle: 'Personal',
+          caption: ''
+        }, {
+          type: filter.android,
+          image: 'img/portfolio/personal/paradex.png',
+          title: 'Paradex',
+          subtitle: 'Personal',
+          caption: ''
+        }, {
+          type: filter.android,
+          image: 'img/portfolio/personal/psarchives.png',
+          title: 'PSArchives',
+          subtitle: 'Personal',
+          caption: ''
+        }, {
+          type: filter.android,
+          image: 'img/portfolio/tipple/tipple.png',
+          title: 'Tipple',
+          subtitle: 'TippleAU',
+          caption: ''
+        // }, {
+        //   type: filter.android,
+        //   image: 'img/portfolio/more.png',
+        //   title: 'More Work',
+        //   subtitle: 'Apart of',
+        //   caption: ''
         }
       ]
     },
