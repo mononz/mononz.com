@@ -40,62 +40,14 @@
       items: [
         {
           type: filter.android,
-          image: 'img/portfolio/creativeintersection/assesspal.png',
-          title: 'AssessPal',
-          subtitle: 'Creative Intersection',
+          image: 'img/portfolio/tipple/tipple.png',
+          title: 'Tipple',
+          subtitle: 'TippleAU',
           caption: ''
         }, {
           type: filter.android,
-          image: 'img/portfolio/creativeintersection/idfish.png',
-          title: 'iDFish',
-          subtitle: 'Creative Intersection',
-          caption: ''
-        }, {
-          type: filter.android,
-          image: 'img/portfolio/creativeintersection/iseekplant.png',
-          title: 'iSeekPlant',
-          subtitle: 'Creative Intersection',
-          caption: ''
-        }, {
-          type: filter.android,
-          image: 'img/portfolio/creativeintersection/pocketkeez.png',
-          title: 'PocketKeez',
-          subtitle: 'Creative Intersection',
-          caption: ''
-        }, {
-          type: filter.android,
-          image: 'img/portfolio/creativeintersection/worksafeguardian.png',
-          title: 'WorkSafe Guardian',
-          subtitle: 'Creative Intersection',
-          caption: ''
-        }, {
-          type: filter.android,
-          image: 'img/portfolio/mononz/tepari.png',
-          title: 'Te Pari',
-          subtitle: 'Mononz Contracting',
-          caption: ''
-        }, {
-          type: filter.android,
-          image: 'img/portfolio/personal/crypz.png',
-          title: 'Crypz',
-          subtitle: 'Personal Project',
-          caption: ''
-        }, {
-          type: filter.android,
-          image: 'img/portfolio/personal/lastepisode.png',
-          title: 'Last Episode',
-          subtitle: 'Personal Project',
-          caption: ''
-        }, {
-          type: filter.android,
-          image: 'img/portfolio/personal/lazytag.png',
-          title: 'Lazy Tag',
-          subtitle: 'Personal Project',
-          caption: ''
-        }, {
-          type: filter.android,
-          image: 'img/portfolio/personal/monote.png',
-          title: 'Monote',
+          image: 'img/portfolio/personal/psarchives.png',
+          title: 'PSArchives',
           subtitle: 'Personal Project',
           caption: ''
         }, {
@@ -106,22 +58,70 @@
           caption: ''
         }, {
           type: filter.android,
-          image: 'img/portfolio/personal/psarchives.png',
-          title: 'PSArchives',
+          image: 'img/portfolio/personal/monote.png',
+          title: 'Monote',
           subtitle: 'Personal Project',
           caption: ''
         }, {
           type: filter.android,
-          image: 'img/portfolio/tipple/tipple.png',
-          title: 'Tipple',
-          subtitle: 'TippleAU',
+          image: 'img/portfolio/personal/lazytag.png',
+          title: 'Lazy Tag',
+          subtitle: 'Personal Project',
           caption: ''
-        // }, {
-        //   type: filter.android,
-        //   image: 'img/portfolio/more.png',
-        //   title: 'More Work',
-        //   subtitle: 'Apart of',
-        //   caption: ''
+        }, {
+          type: filter.android,
+          image: 'img/portfolio/personal/lastepisode.png',
+          title: 'Last Episode',
+          subtitle: 'Personal Project',
+          caption: ''
+        }, {
+          type: filter.android,
+          image: 'img/portfolio/personal/crypz.png',
+          title: 'Crypz',
+          subtitle: 'Personal Project',
+          caption: ''
+        }, {
+          type: filter.android,
+          image: 'img/portfolio/mononz/tepari.png',
+          title: 'Te Pari',
+          subtitle: 'Mononz Contracting',
+          caption: ''
+        }, {
+          type: filter.android,
+          image: 'img/portfolio/creativeintersection/worksafeguardian.png',
+          title: 'WorkSafe Guardian',
+          subtitle: 'Creative Intersection',
+          caption: ''
+        }, {
+          type: filter.android,
+          image: 'img/portfolio/creativeintersection/pocketkeez.png',
+          title: 'PocketKeez',
+          subtitle: 'Creative Intersection',
+          caption: ''
+        }, {
+          type: filter.android,
+          image: 'img/portfolio/creativeintersection/iseekplant.png',
+          title: 'iSeekPlant',
+          subtitle: 'Creative Intersection',
+          caption: ''
+        }, {
+          type: filter.android,
+          image: 'img/portfolio/creativeintersection/idfish.png',
+          title: 'iDFish',
+          subtitle: 'Creative Intersection',
+          caption: ''
+        }, {
+          type: filter.android,
+          image: 'img/portfolio/creativeintersection/assesspal.png',
+          title: 'AssessPal',
+          subtitle: 'Creative Intersection',
+          caption: ''
+          // }, {
+          //   type: filter.android,
+          //   image: 'img/portfolio/more.png',
+          //   title: 'More Work',
+          //   subtitle: 'Apart of',
+          //   caption: ''
         }
       ]
     },
