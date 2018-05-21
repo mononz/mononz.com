@@ -16,3 +16,5 @@ scss/index.css.map
 .idea/tasks.xml
 .idea/dictionaries
 *.iml
+.idea/markdown-navigator.xml
+.idea/markdown-navigator/*
