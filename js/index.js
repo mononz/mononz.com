@@ -40,7 +40,7 @@
       items: [
         {
           type: filter.android,
-          image: 'img/portfolio/appicon/tipple-customer.png',
+          image: 'img/portfolio/tipple-customer.png',
           color: '#FFEB3B',
           title: 'Tipple Customer',
           subtitle: 'TippleAU',
@@ -48,7 +48,7 @@
           link: 'https://play.google.com/store/apps/details?id=com.tipple'
         }, {
           type: filter.android,
-          image: 'img/portfolio/appicon/tipple-courier.png',
+          image: 'img/portfolio/tipple-courier.png',
           color: '#9E9E9E',
           title: 'Tipple Courier',
           subtitle: 'TippleAU',
@@ -56,7 +56,7 @@
           link: ''
         }, {
           type: filter.android,
-          image: 'img/portfolio/appicon/planetside.png',
+          image: 'img/portfolio/planetside.png',
           color: '#E91E63',
           title: 'PSArchives',
           subtitle: 'Personal Project',
@@ -64,7 +64,7 @@
           link: 'https://play.google.com/store/apps/details?id=net.mononz.ps2'
         }, {
           type: filter.android,
-          image: 'img/portfolio/appicon/paragon.png',
+          image: 'img/portfolio/paragon.png',
           color: '#673AB7',
           title: 'Paradex',
           subtitle: 'Personal Project',
@@ -72,7 +72,7 @@
           link: 'https://play.google.com/store/apps/details?id=net.mononz.paragon'
         }, {
           type: filter.android,
-          image: 'img/portfolio/appicon/monote.png',
+          image: 'img/portfolio/monote.png',
           color: '#607D8B',
           title: 'Monote',
           subtitle: 'Personal Project',
@@ -80,7 +80,7 @@
           link: null
         }, {
           type: filter.android,
-          image: 'img/portfolio/appicon/lazytag.png',
+          image: 'img/portfolio/lazytag.png',
           color: '#CDDC39',
           title: 'Lazy Tag',
           subtitle: 'Personal Project',
@@ -88,7 +88,7 @@
           link: null
         }, {
           type: filter.android,
-          image: 'img/portfolio/appicon/lastepisode.png',
+          image: 'img/portfolio/lastepisode.png',
           color: '#F44336',
           title: 'Last Episode',
           subtitle: 'Personal Project',
@@ -96,7 +96,7 @@
           link: null
         }, {
           type: filter.android,
-          image: 'img/portfolio/appicon/crypz.png',
+          image: 'img/portfolio/crypz.png',
           color: '#2196F3',
           title: 'Crypz',
           subtitle: 'Personal Project',
@@ -104,7 +104,7 @@
           link: null
         }, {
           type: filter.android,
-          image: 'img/portfolio/appicon/tepari.png',
+          image: 'img/portfolio/tepari.png',
           color: '#4CAF50',
           title: 'Te Pari',
           subtitle: 'Mononz Contracting',
@@ -112,7 +112,7 @@
           link: 'https://play.google.com/store/apps/details?id=com.tepari.tpcd'
         }, {
           type: filter.android,
-          image: 'img/portfolio/appicon/wsg.png',
+          image: 'img/portfolio/wsg.png',
           color: '#3F51B5',
           title: 'WorkSafe Guardian',
           subtitle: 'Creative Intersection',
@@ -120,15 +120,15 @@
           link: 'https://play.google.com/store/apps/details?id=au.com.worksafeguardian.androidapp'
         }, {
           type: filter.android,
-          image: 'img/portfolio/appicon/pocketkeez.png',
+          image: 'img/portfolio/pocketkeez.png',
           color: '#795548',
           title: 'PocketKeez',
           subtitle: 'Creative Intersection',
           caption: '',
-          link: ''
+          link: null
         }, {
           type: filter.android,
-          image: 'img/portfolio/appicon/iseekplant.png',
+          image: 'img/portfolio/iseekplant.png',
           color: '#009688',
           title: 'iSeekPlant',
           subtitle: 'Creative Intersection',
@@ -136,7 +136,7 @@
           link: 'https://play.google.com/store/apps/details?id=au.com.iseekplant.app'
         }, {
           type: filter.android,
-          image: 'img/portfolio/appicon/idfish.png',
+          image: 'img/portfolio/idfish.png',
           color: '#FF5722',
           title: 'iDFish',
           subtitle: 'Creative Intersection',
@@ -144,7 +144,7 @@
           link: 'https://play.google.com/store/apps/details?id=au.com.idfish.app'
         }, {
           type: filter.android,
-          image: 'img/portfolio/appicon/assesspal.png',
+          image: 'img/portfolio/assesspal.png',
           color: '#9E9E9E',
           title: 'AssessPal',
           subtitle: 'Creative Intersection',
