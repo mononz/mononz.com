@@ -106,7 +106,8 @@
                 <div class="portfolio-grid clearfix" id="portfolioList">
                     {{#each portfolio.items}}
                     <div class="mix {{this.type}}" href="{{this.image}}" title="{{this.title}}">
-                        <div class="portfolio-wrapper">
+                        <div class="portfolio-wrapper" style="background:{{this.color}}">
+                            <span class="helper"></span>
                             <img src="{{this.image}}" alt="">
                             <div class="caption">
                                 <div class="caption-text">

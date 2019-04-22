@@ -132,6 +132,12 @@
   }
 }
 
+.helper {
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+
 // Portfolio Grid
 .portfolio-grid {
   .mix {
@@ -143,12 +149,15 @@
       position: relative !important;
       overflow: hidden;
       cursor: pointer;
-      background: $themeDark;
+      background: $themeImgBackground;
+      height: 160px;
       img {
         position: relative;
-        max-width: 100%;
+        max-height: 60%;
+        max-width: 60%;
         -webkit-filter: grayscale(0);
         filter: grayscale(0);
+        vertical-align: middle;
         @include transition-all;
         &:hover {
           -webkit-filter: grayscale(1);

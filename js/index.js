@@ -18,7 +18,7 @@
     background: 'img/bg-beer.jpg',
     base: {
       url: 'mononz.com',
-      year: 2018,
+      year: 2019,
     },
     work: {
       title: 'About Me',
@@ -40,88 +40,116 @@
       items: [
         {
           type: filter.android,
-          image: 'img/portfolio/tipple/tipple.png',
-          title: 'Tipple',
+          image: 'img/portfolio/appicon/tipple-customer.png',
+          color: '#FFEB3B',
+          title: 'Tipple Customer',
           subtitle: 'TippleAU',
-          caption: ''
+          caption: '',
+          link: 'https://play.google.com/store/apps/details?id=com.tipple'
         }, {
           type: filter.android,
-          image: 'img/portfolio/personal/psarchives.png',
+          image: 'img/portfolio/appicon/tipple-courier.png',
+          color: '#9E9E9E',
+          title: 'Tipple Courier',
+          subtitle: 'TippleAU',
+          caption: 'https://play.google.com/store/apps/details?id=au.com.tipple.courier',
+          link: ''
+        }, {
+          type: filter.android,
+          image: 'img/portfolio/appicon/planetside.png',
+          color: '#E91E63',
           title: 'PSArchives',
           subtitle: 'Personal Project',
-          caption: ''
+          caption: '',
+          link: 'https://play.google.com/store/apps/details?id=net.mononz.ps2'
         }, {
           type: filter.android,
-          image: 'img/portfolio/personal/paradex.png',
+          image: 'img/portfolio/appicon/paragon.png',
+          color: '#673AB7',
           title: 'Paradex',
           subtitle: 'Personal Project',
-          caption: ''
+          caption: '',
+          link: 'https://play.google.com/store/apps/details?id=net.mononz.paragon'
         }, {
           type: filter.android,
-          image: 'img/portfolio/personal/monote.png',
+          image: 'img/portfolio/appicon/monote.png',
+          color: '#607D8B',
           title: 'Monote',
           subtitle: 'Personal Project',
-          caption: ''
+          caption: '',
+          link: null
         }, {
           type: filter.android,
-          image: 'img/portfolio/personal/lazytag.png',
+          image: 'img/portfolio/appicon/lazytag.png',
+          color: '#CDDC39',
           title: 'Lazy Tag',
           subtitle: 'Personal Project',
-          caption: ''
+          caption: '',
+          link: null
         }, {
           type: filter.android,
-          image: 'img/portfolio/personal/lastepisode.png',
+          image: 'img/portfolio/appicon/lastepisode.png',
+          color: '#F44336',
           title: 'Last Episode',
           subtitle: 'Personal Project',
-          caption: ''
+          caption: '',
+          link: null
         }, {
           type: filter.android,
-          image: 'img/portfolio/personal/crypz.png',
+          image: 'img/portfolio/appicon/crypz.png',
+          color: '#2196F3',
           title: 'Crypz',
           subtitle: 'Personal Project',
-          caption: ''
+          caption: '',
+          link: null
         }, {
           type: filter.android,
-          image: 'img/portfolio/mononz/tepari.png',
+          image: 'img/portfolio/appicon/tepari.png',
+          color: '#4CAF50',
           title: 'Te Pari',
           subtitle: 'Mononz Contracting',
-          caption: ''
+          caption: '',
+          link: 'https://play.google.com/store/apps/details?id=com.tepari.tpcd'
         }, {
           type: filter.android,
-          image: 'img/portfolio/creativeintersection/worksafeguardian.png',
+          image: 'img/portfolio/appicon/wsg.png',
+          color: '#3F51B5',
           title: 'WorkSafe Guardian',
           subtitle: 'Creative Intersection',
-          caption: ''
+          caption: '',
+          link: 'https://play.google.com/store/apps/details?id=au.com.worksafeguardian.androidapp'
         }, {
           type: filter.android,
-          image: 'img/portfolio/creativeintersection/pocketkeez.png',
+          image: 'img/portfolio/appicon/pocketkeez.png',
+          color: '#795548',
           title: 'PocketKeez',
           subtitle: 'Creative Intersection',
-          caption: ''
+          caption: '',
+          link: ''
         }, {
           type: filter.android,
-          image: 'img/portfolio/creativeintersection/iseekplant.png',
+          image: 'img/portfolio/appicon/iseekplant.png',
+          color: '#009688',
           title: 'iSeekPlant',
           subtitle: 'Creative Intersection',
-          caption: ''
+          caption: '',
+          link: 'https://play.google.com/store/apps/details?id=au.com.iseekplant.app'
         }, {
           type: filter.android,
-          image: 'img/portfolio/creativeintersection/idfish.png',
+          image: 'img/portfolio/appicon/idfish.png',
+          color: '#FF5722',
           title: 'iDFish',
           subtitle: 'Creative Intersection',
-          caption: ''
+          caption: '',
+          link: 'https://play.google.com/store/apps/details?id=au.com.idfish.app'
         }, {
           type: filter.android,
-          image: 'img/portfolio/creativeintersection/assesspal.png',
+          image: 'img/portfolio/appicon/assesspal.png',
+          color: '#9E9E9E',
           title: 'AssessPal',
           subtitle: 'Creative Intersection',
-          caption: ''
-          // }, {
-          //   type: filter.android,
-          //   image: 'img/portfolio/more.png',
-          //   title: 'More Work',
-          //   subtitle: 'Apart of',
-          //   caption: ''
+          caption: '',
+          link: 'https://assesspal.com/'
         }
       ]
     },
