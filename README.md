@@ -13,3 +13,5 @@ firebase deploy
 ## Development
 
 Using [Webstorm](https://www.jetbrains.com/webstorm/). Ensure a file watcher is setup to generate css from sass.
+
+https://www.jetbrains.com/help/webstorm/transpiling-sass-less-and-scss-to-css.html
