@@ -18,7 +18,7 @@
     background: 'img/bg-beer.jpg',
     base: {
       url: 'mononz.com',
-      year: 2019,
+      year: new Date().getFullYear(),
     },
     work: {
       title: 'About Me',
@@ -53,6 +53,14 @@
           title: 'Tipple Courier',
           subtitle: 'TippleAU',
           caption: 'https://play.google.com/store/apps/details?id=au.com.tipple.courier',
+          link: ''
+        }, {
+          type: filter.android,
+          image: 'img/portfolio/tipple-courier.png',
+          color: '#9E9E9E',
+          title: 'Tipple Partner',
+          subtitle: 'TippleAU',
+          caption: 'https://play.google.com/store/apps/details?idcom.tipplego.partner',
           link: ''
         }, {
           type: filter.android,
